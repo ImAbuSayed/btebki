@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Btebki |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/btebki/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عيني تعالي في حضني الليلة
+> شوقي لك نار والروح بيك مليانة
+> قلبي ينادي لك في كل دقيقة
+> أنا هنا يا عمري لك سهرانة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
